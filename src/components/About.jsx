@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 
 const About = () => (
   <section id="about" className="min-h-screen flex flex-col justify-between p-8 bg-darkBg">
-    {/* Heading at the top */}
+    {/* Heading */}
     <motion.div
       initial={{ opacity: 0, y: -50 }}
       whileInView={{ opacity: 1, y: 0 }}
@@ -12,7 +12,6 @@ const About = () => (
       <h2 className="text-4xl font-bold mb-8">About Me</h2>
     </motion.div>
 
-    {/* Content in the center (text and image) */}
     <div className="flex flex-col md:flex-row justify-center items-center flex-grow">
       {/* Text Section */}
       <motion.div
@@ -39,7 +38,7 @@ const About = () => (
         className="mt-8 md:mt-0 md:w-1/2 flex justify-center items-center"
       >
         <img
-          src="/src/assets/character.png"
+          src="../src/assets/character.png"
           alt="About Me"
           className="w-full max-w-xs rounded-lg shadow-lg"
         />
