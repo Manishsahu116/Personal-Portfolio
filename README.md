@@ -3,6 +3,7 @@
 This is a personal portfolio website built using **React**, **Tailwind CSS**, and **Framer Motion**. It features a dark theme and professional animations to showcase skills, projects, and contact information.
 
 ## Link to view :
+https://personal-portfolio-sigma-woad.vercel.app/
 
 
 ## Features
