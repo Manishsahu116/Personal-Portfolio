@@ -38,7 +38,7 @@ const About = () => (
         className="mt-8 md:mt-0 md:w-1/2 flex justify-center items-center"
       >
         <img
-          src="../src/assets/character.png"
+          src="/me/character.png"
           alt="About Me"
           className="w-full max-w-xs rounded-lg shadow-lg"
         />
