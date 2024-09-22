@@ -1,12 +1,35 @@
-<<<<<<< HEAD
-# React + Vite
+# Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a personal portfolio website built using **React**, **Tailwind CSS**, and **Framer Motion**. It features a dark theme and professional animations to showcase skills, projects, and contact information.
 
-Currently, two official plugins are available:
+## Link to view :
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# Personal-Portfolio
->>>>>>> d5f4180793076e77b15f0cacebda1ffd7523d269
+
+## Features
+
+- Dark theme design
+- Animated hero section with typing effect
+- Responsive layout
+- Links to GitHub, LinkedIn, email, and resume
+- Smooth animations with `framer-motion`
+
+## Technologies Used
+
+- **React**
+- **Tailwind CSS**
+- **Framer Motion**
+- **React Icons**
+
+## Installation
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Manishsahu116/portfolio.git
+   
+   Install dependencies:
+   npm install
+   
+   Start the development server:
+   npm run dev
+
