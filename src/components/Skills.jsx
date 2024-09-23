@@ -12,6 +12,8 @@ const skills = [
   { name: 'Git', icon: '/icons/git-svgrepo-com.svg' },
   { name: 'GitHub', icon: '/icons/github-142-svgrepo-com.svg' },
   { name: 'Visual Studio', icon: '/icons/vs-code-svgrepo-com.svg' },
+  { name: 'Vite', icon: '/icons/vite-svgrepo-com.svg' },
+  { name: 'Figma', icon: '/icons/figma-svgrepo-com.svg' },
 ];
 
 const Skills = () => (
