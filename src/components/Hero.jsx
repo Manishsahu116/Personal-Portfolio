@@ -25,7 +25,7 @@ const Hero = () => (
                 initial={{ opacity: 0 }}
                 animate={{ opacity: 1 }}
                 transition={{ duration: 1.5 }}
-                className="text-4xl font-bold text-white"
+                className="text-3xl font-bold text-white"
             >  <div> Hi, My name is  <span className='text-blue-500'>Manish</span></div> and I'm a
                 <Typewriter
                     words={[" Programmer", " Web Developer", " Web Designer"]}
