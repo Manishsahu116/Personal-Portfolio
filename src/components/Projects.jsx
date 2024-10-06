@@ -37,11 +37,11 @@ const projects = [
     image: '/projects/multi-step form.png'
   },
   {
-    name: 'Netflix Home',
-    description: 'HTML, CSS, JavaScript, BootStrap',
-    githubLink: 'https://github.com/Manishsahu116/netflix-ui',
-    liveLink: 'https://netflix-ui-brown.vercel.app/',
-    image: '/projects/netflix.png'
+    name: 'E-Signature Site',
+    description: 'React Vite, Tailwind CSS',
+    githubLink: 'https://github.com/Manishsahu116/E-Signature',
+    liveLink: 'https://e-signature-rouge.vercel.app/',
+    image: '/projects/E-Signature.png'
   },
 ];
 
