@@ -40,7 +40,7 @@ const projects = [
     name: 'E-Signature Site',
     description: 'React Vite, Tailwind CSS',
     githubLink: 'https://github.com/Manishsahu116/E-Signature',
-    liveLink: 'https://e-signature-rouge.vercel.app/',
+    liveLink: 'https://e-signature-opal.vercel.app/',
     image: '/projects/E-Signature.png'
   },
 ];
