@@ -49,7 +49,7 @@ const Hero = () => (
                 <a href="mailto:sahumanish2969@gmail.com">
                     <FaEnvelope className="text-white w-8 h-8 hover:text-blue-500" />
                 </a>
-                <a href="https://drive.google.com/file/d/1lE7-OFOnym20FxH7mSSCxYlUbjqDp20V/view?usp=sharing" download>
+                <a href="https://drive.google.com/file/d/1-xwbznEdbHaeQaczIETFT8hvPYXnAf-K/view?usp=sharing" download>
                     <FaFileDownload className="text-white w-8 h-8 hover:text-blue-500" />
                 </a>
             </div>      
