@@ -14,9 +14,9 @@ const Navbar = () => {
       initial={{ y: -50 }}
       animate={{ y: 0 }}
       transition={{ duration: 0.5 }}
-      className="fixed top-0 w-full bg-darkGray text-darkText shadow-lg p-4 z-50"
+      className="fixed top-0 w-full bg-darkGray text-darkText bg-black/10 backdrop-blur-3xl shadow-lg py-3 md:px-14 px-4 z-50"
     >
-      <div className="container mx-auto flex justify-between items-center ">
+      <div className="container mx-auto flex justify-between items-center  ">
         {/* Logo and Title */}
         <div className="flex items-center space-x-2">
           <img
@@ -24,7 +24,7 @@ const Navbar = () => {
             alt="Logo"
             className="w-8 h-8"
           />
-          <h1 className="text-2xl font-bold text-white">MyPortfolio</h1>
+          <h1 className="text-2xl font-bold text-white"><a href="/">Ma<span className='text-blue-500'>ni</span>sh</a></h1>
         </div>
 
         {/* Desktop Navigation Links */}
@@ -52,7 +52,7 @@ const Navbar = () => {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 0.3 }}
-          className="flex flex-col items-center mt-4 space-y-4 md:hidden bg-slate-900"
+          className="flex flex-col items-center mt-4 space-y-4 md:hidden"
         >
           <li><a href="#about" className="hover:text-blue-500 text-white" onClick={toggleMenu}>About</a></li>
           <li><a href="#projects" className="hover:text-blue-500 text-white" onClick={toggleMenu}>Projects</a></li>
