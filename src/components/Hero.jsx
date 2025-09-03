@@ -65,7 +65,7 @@ const Hero = () => (
         <a href="mailto:sahumanish2969@gmail.com">
             <FaEnvelope className="w-8 h-8 hover:text-blue-500 transition duration-300" />
         </a>
-        <a href="https://drive.google.com/file/d/1zNZEIMfByzvEogC74rNLl69JjOMjA4W-/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+        <a href="https://drive.google.com/file/d/1fadDXcrOqIMujEVl7oEEg0pOgqbZcSD_/view?usp=sharing" target="_blank" rel="noopener noreferrer">
             <FaFileDownload className="w-8 h-8 hover:text-blue-500 transition duration-300" />
         </a>
     </motion.div>
